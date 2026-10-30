@@ -1,0 +1,6 @@
+{
+  "name": "Surplus to Serve",
+  "description": "A food donation platform connecting donors, NGOs, volunteers, and administrators to reduce food waste and feed communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
